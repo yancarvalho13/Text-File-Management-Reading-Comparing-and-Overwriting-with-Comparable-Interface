@@ -1,0 +1,4 @@
+Yan Silva,3000.0
+Yuri Silva,1500.0
+Brenda Costa,10000.0
+Robson Silva,3000.0
